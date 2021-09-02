@@ -17,6 +17,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <br>
   <img class"media" src="https://i.picasion.com/pic91/c26a14cb7691b5e58087b135ad8b3bc7.gif" align="right" width="200" height="130" border="0" target="_blank"/>
 
 </section>
